@@ -2,7 +2,7 @@
 The READ.ME of the organization account.
 
 - 👋 Hi, We'are @adnstech.
-- 👀 We imagine the tools that handles your app's main process with `@adnstech/bios` using Erlang, Rust and C to up the architecture of these processes and their state...
+- 👀 We imagine the tools that handles your app's main process with `@adnstech/bios` using Erlang, Rust and C(unsafe) to up the architecture of these processes and their state...
 - 🌱 We build currently `@adnstech/bios` and `@adnstech/framework`.
 - 📫 How to reach us: <support@adns-tech.dev>.
 
